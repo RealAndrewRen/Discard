@@ -65,6 +65,7 @@ More full matchup logic is hardcoded and deeply chaotic, as it should be.
   ![Duel system screenshot](./screenshots/duel.png)
 
 - List of commands
+  ![Commands screenshot](./screenshots/commands.png)
 
 To add your own screenshots, place them in a `screenshots/` folder and reference them like above.
 ---
