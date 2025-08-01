@@ -93,4 +93,11 @@ To add your own screenshots, place them in a `screenshots/` folder and reference
    ```bash
    node index.js
 
+---
 ## Contributors
+
+- **Andrew Ren**
+- **Eric Pan** 
+- **Kyle Plosky** 
+
+---
