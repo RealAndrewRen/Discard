@@ -84,13 +84,13 @@ To add your own screenshots, place them in a `screenshots/` folder and reference
    git clone https://github.com/RealAndrewRen/Discard.git
    cd Discard
 2. Install dependencies:
-   ```npm
-   install
+   ```bash
+   npm install
 3. Add your OpenAI key and Discord ID to your .env and data.json files:
-   ```OPENAI_API_KEY=your_openai_key
-   GUILD_ID=your_server_id
+   ```bash
+   OPENAI_API_KEY=your_openai_key GUILD_ID=your_server_id
 4. Run the bot:
-   ```node
-   index.js
+   ```bash
+   node index.js
 
 ## Contributors
