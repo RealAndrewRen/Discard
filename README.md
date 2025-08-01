@@ -58,10 +58,13 @@ More full matchup logic is hardcoded and deeply chaotic, as it should be.
 ## Screenshots
 
 
-- Message classification   
+- Message classification
   ![Message classification screenshot](./screenshots/classify.png)
 
-- Duel outcome announcement  
+- Deck Creation
+  ![Deck screenshot](./screenshots/deck.png)
+
+- Duel outcome announcement
   ![Duel system screenshot](./screenshots/duel.png)
 
 - List of commands
